@@ -32,3 +32,8 @@ https://www.youtube.com/watch?v=JV63czrUpbI </br>
 
 - GOTO 2016 • Exploring RxJava 2 for Android • Jake Wharton </br>
 https://www.youtube.com/watch?v=htIXKI5gOQU </br>
+
+## !!) TO BE WATCHED </br>
+
+- Architecture Components - Introduction (Google I/O '17)
+https://www.youtube.com/watch?v=FrteWKKVyzI </br>
